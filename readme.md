@@ -39,10 +39,10 @@ I'm a **Full-Stack Web Developer** based in Burnaby, British Columbia, Canada, p
 #### 🔄 Trial (Actively learning, experimenting)
 
 - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
--![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
--![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
--![NoSQL](https://img.shields.io/badge/-NoSQL-008000?style=flat-square&logo=nodedotjs&logoColor=white)
--![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+- ![NoSQL](https://img.shields.io/badge/-NoSQL-008000?style=flat-square&logo=nodedotjs&logoColor=white)
+- ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
